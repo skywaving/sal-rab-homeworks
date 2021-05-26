@@ -9,9 +9,7 @@ function renderCartItem(item) {
     // title - наименование
     // price - цена
     // count - количество
-product = {
-    id: 1, title: 'Эчпочмак', count: 2, price: '50.00'
-}
+
     // сформируйте строку itemCountText вида:
     // количество × цена ₽ = стоимость ₽
     // например,
